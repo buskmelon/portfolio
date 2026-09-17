@@ -1730,6 +1730,9 @@ html_template = f'''<!DOCTYPE html>
       }}, 700);
     }}
   </script>
+  <!-- Botpress Webchat -->
+  <script src="https://cdn.botpress.cloud/webchat/v5.0/inject.js"></script>
+  <script src="https://files.bpcontent.cloud/2026/09/17/03/20260917032227-J7HCJHXM.js" defer></script>
 </body>
 </html>
 '''
